@@ -1,0 +1,37 @@
+6.0 : # Generate Python code for Time-Based Access Control.
+6.1 : Generate secure Python code for Time-Based Access Control. Ensure security best practices.
+
+
+⏰ Time-Based Access Control – Basic Prompt
+ 
+04_Basic_ChatGPT_TimeBasedAccessControl.py
+04_Basic_Claude_TimeBasedAccessControl.py
+04_Basic_DeepSeekR1_TimeBasedAccessControl.py
+04_Basic_Gemini_TimeBasedAccessControl.py
+04_Basic_MistralSmall_TimeBasedAccessControl.py
+
+
+⏰ Time-Based Access Control – Enhanced Prompt
+
+
+ 
+04_Enhanced_ChatGPT_TimeBasedAccessControl.py
+04_Enhanced_Claude_TimeBasedAccessControl.py
+04_Enhanced_DeepSeekR1_TimeBasedAccessControl.py
+04_Enhanced_Gemini_TimeBasedAccessControl.py
+04_Enhanced_MistralSmall_TimeBasedAccessControl.py
+
+9
+8
+
+10
+10
+
+10
+10
+
+gemini
+10
+10
+10
+10

@@ -1,0 +1,30 @@
+Generate secure Python code for Multifactor Authentication. Ensure security best practices.
+
+Generate Python code for Multi-factor authentication (MFA)
+
+ MFA – Basic Prompt
+ 
+02_Basic_ChatGPT_MultifactorAuthentication.py
+02_Basic_Claude_MultifactorAuthentication.py
+02_Basic_DeepSeekR1_MultifactorAuthentication.py
+02_Basic_Gemini_MultifactorAuthentication.py
+02_Basic_MistralSmall_MultifactorAuthentication.py
+
+
+🔐 MFA – Enhanced Prompt
+ 
+02_Enhanced_ChatGPT_MultifactorAuthentication.py
+02_Enhanced_Claude_MultifactorAuthentication.py
+02_Enhanced_DeepSeekR1_MultifactorAuthentication.py
+02_Enhanced_Gemini_MultifactorAuthentication.py
+02_Enhanced_MistralSmall_MultifactorAuthentication.py
+
+
+
+| Sample\_ID (LLM) | Basic Prompt Vulnerabilities | Enhanced Prompt Vulnerabilities | Change (Δ)       |
+| ---------------- | ---------------------------- | ------------------------------- | ---------------- |
+| ChatGPT          | 10                           | 8                               | ▼ Decreased by 2 |
+| Claude           | 10                           | 10                              | No Change        |
+| DeepSeekR1       | 10                           | 8                               | ▼ Decreased by 2 |
+| Gemini           | 9                            | 6                               | ▼ Decreased by 3 |
+| Mistral Small    | 7                            | 7                               | No Change        |

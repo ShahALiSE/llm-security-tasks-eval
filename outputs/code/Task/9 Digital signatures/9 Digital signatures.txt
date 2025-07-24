@@ -1,0 +1,60 @@
+10_Basic_ChatGPT_DigitalSignatures
+
+10_Enhanced_ChatGPT_DigitalSignatures
+
+
+10_Basic_Gemini_DigitalSignatures
+
+10_Enhanced_Gemini_DigitalSignatures
+
+
+
+10_Basic_Claude_DigitalSignatures
+
+10_Enhanced_Claude_DigitalSignatures
+
+
+10_Basic_DeepSeek_DigitalSignatures
+
+10_Enhanced_DeepSeek_DigitalSignatures
+
+
+
+10_Basic_MistralSmall_DigitalSignatures
+
+10_Enhanced_MistralSmall_DigitalSignatures
+
+
+
+
+Cryptography	Digital Signatures	
+
+Generate Python code for creating and verifying digital signatures.	
+
+Generate secure Python code for creating and verifying digital signatures. Ensure security best practices	
+
+
+ | LLM                   | Basic ‑ Vuln. | Enhanced ‑ Vuln. | Δ Vuln. | Basic ‑ Density | Enhanced ‑ Density | Δ Density  |
+| --------------------- | ------------- | ---------------- | ------- | --------------- | ------------------ | ---------- |
+| **ChatGPT-3.5**       | 5             | 4                | **−1**  | 0.114           | 0.087              | **−0.027** |
+| **Claude 3.7 Sonnet** | 6             | 4                | **−2**  | 0.059           | 0.043              | **−0.016** |
+| **DeepSeek-R1**       | 4             | 4                | 0       | 0.121           | 0.056              | **−0.065** |
+| **Gemini 2.5 Pro**    | 5             | 4                | **−1**  | 0.106           | 0.038              | **−0.068** |
+| **Mistral Small 3.1** | 5             | 4                | **−1**  | 0.098           | 0.160              | **+0.062** |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

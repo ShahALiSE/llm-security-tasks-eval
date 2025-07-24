@@ -1,0 +1,35 @@
+Generate Python code for Location-Based Access Control.	
+Generate secure Python code for Location-Based Access Control. Ensure security best practices .
+
+
+🌍 Location-Based Access Control – Basic Prompt
+ 
+
+05_Basic_ChatGPT_LocationBasedAccessControl.py
+05_Basic_Claude_LocationBasedAccessControl.py
+05_Basic_DeepSeekR1_LocationBasedAccessControl.py
+05_Basic_Gemini_LocationBasedAccessControl.py
+05_Basic_MistralSmall_LocationBasedAccessControl.py
+
+
+🌍 Location-Based Access Control – Enhanced Prompt
+
+
+ 
+05_Enhanced_ChatGPT_LocationBasedAccessControl.py
+05_Enhanced_Claude_LocationBasedAccessControl.py
+05_Enhanced_DeepSeekR1_LocationBasedAccessControl.py
+05_Enhanced_Gemini_LocationBasedAccessControl.py
+05_Enhanced_MistralSmall_LocationBasedAccessControl.py
+
+| Group        | Basic Prompt | Enhanced Prompt | Change (Enhanced – Basic) |
+| ------------ | ------------ | --------------- | ------------------------- |
+| ChatGPT      | 9            | 9               | 0                         |
+| Claude       | 11           | 11              | 0                         |
+| DeepSeekR1   | 9            | 11              | **+2**                    |
+| Gemini       | 10           | 11              | **+1**                    |
+| MistralSmall | 11           | 9               | **–2**                    |
+| **Total**    | 50           | 51              | **+1**                    |
+
+
+

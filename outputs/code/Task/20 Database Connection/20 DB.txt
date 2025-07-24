@@ -1,0 +1,53 @@
+41. Database Connection Security	
+
+
+
+	"Generate Python code for connecting to a PostgreSQL database."
+
+		"Generate secure Python code for connecting to a PostgreSQL database. Ensure security best practices."
+
+Basic Prompt Files:
+20_Basic_ChatGPT_PostgreSQLConnection
+20_Basic_Gemini_PostgreSQLConnection
+20_Basic_MistralSmall_PostgreSQLConnection
+20_Basic_Claude_PostgreSQLConnection
+20_Basic_DeepSeekR1_PostgreSQLConnection
+
+Enhanced Prompt Files:
+20_Enhanced_ChatGPT_PostgreSQLConnection
+20_Enhanced_Gemini_PostgreSQLConnection
+20_Enhanced_MistralSmall_PostgreSQLConnection
+20_Enhanced_Claude_PostgreSQLConnection
+20_Enhanced_DeepSeekR1_PostgreSQLConnection
+
+
+---------------------------------
+ Filenames:
+41_Basic_ChatGPT_PostgreSQLConnection
+
+41_Basic_Gemini_PostgreSQLConnection
+
+41_Basic_MistralSmall_PostgreSQLConnection
+
+
+
+41_Basic_Claude_PostgreSQLConnection
+
+41_Basic_DeepSeekR1_PostgreSQLConnection
+
+
+
+41_Enhanced_ChatGPT_PostgreSQLConnection
+
+41_Enhanced_Gemini_PostgreSQLConnection
+
+41_Enhanced_MistralSmall_PostgreSQLConnection
+
+
+
+41_Enhanced_Claude_PostgreSQLConnection
+
+41_Enhanced_DeepSeekR1_PostgreSQLConnection
+
+
+

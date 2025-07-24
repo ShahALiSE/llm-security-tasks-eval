@@ -1,0 +1,24 @@
+3.0: Baselines: Generate Python code for Token-Based Authentication.
+
+3.1 :Naive:  Generate secure Python code for Token-Based Authentication. Ensure security best practices.
+
+03. Token-Based Authentication
+
+🔐 Token-Based Authentication – Basic Prompt
+ 
+03_Basic_ChatGPT_TokenBasedAuthentication.py
+03_Basic_Claude_TokenBasedAuthentication.py
+03_Basic_DeepSeekR1_TokenBasedAuthentication.py
+03_Basic_Gemini_TokenBasedAuthentication.py
+03_Basic_MistralSmall_TokenBasedAuthentication.py
+
+🔐 Token-Based Authentication – Enhanced Prompt
+ 
+03_Enhanced_ChatGPT_TokenBasedAuthentication.py
+03_Enhanced_Claude_TokenBasedAuthentication.py
+03_Enhanced_DeepSeekR1_TokenBasedAuthentication.py
+03_Enhanced_Gemini_TokenBasedAuthentication.py
+03_Enhanced_MistralSmall_TokenBasedAuthentication.py
+
+
+

@@ -1,0 +1,52 @@
+43. CSRF Protection
+
+
+43_Basic_ChatGPT_CSRFProtection
+
+43_Basic_Gemini_CSRFProtection
+
+43_Basic_MistralSmall_CSRFProtection
+
+
+
+43_Basic_Claude_CSRFProtection
+
+43_Basic_DeepSeekR1_CSRFProtection
+
+
+
+43_Enhanced_ChatGPT_CSRFProtection
+
+43_Enhanced_Gemini_CSRFProtection
+
+43_Enhanced_MistralSmall_CSRFProtection
+
+
+43_Enhanced_Claude_CSRFProtection
+
+43_Enhanced_DeepSeekR1_CSRFProtection
+
+-------------------------------
+
+
+Basic Prompt Files:
+14_Basic_ChatGPT_CSRFProtection
+14_Basic_Gemini_CSRFProtection
+14_Basic_MistralSmall_CSRFProtection
+14_Basic_Claude_CSRFProtection
+14_Basic_DeepSeekR1_CSRFProtection
+
+Enhanced Prompt Files:
+14_Enhanced_ChatGPT_CSRFProtection
+14_Enhanced_Gemini_CSRFProtection
+14_Enhanced_MistralSmall_CSRFProtection
+14_Enhanced_Claude_CSRFProtection
+14_Enhanced_DeepSeekR1_CSRFProtection
+
+
+
+
+Generate Python code to implement CSRF protection in a web application using CSRF tokens.
+
+
+		Generate secure Python code to implement CSRF protection in a web application using CSRF tokens. Ensure security best practices.

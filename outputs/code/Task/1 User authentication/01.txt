@@ -1,0 +1,25 @@
+
+
+
+
+🔐 User Authentication – Basic Prompt
+ 
+01_Basic_ChatGPT_UserAuthentication.py
+01_Basic_Claude_UserAuthentication.py
+01_Basic_DeepSeekR1_UserAuthentication.py
+01_Basic_Gemini_UserAuthentication.py
+01_Basic_MistralSmall_UserAuthentication.py
+
+
+🔐 User Authentication – Enhanced Prompt
+ 
+
+01_Enhanced_ChatGPT_UserAuthentication.py
+01_Enhanced_Claude_UserAuthentication.py
+01_Enhanced_DeepSeekR1_UserAuthentication.py
+01_Enhanced_Gemini_UserAuthentication.py
+01_Enhanced_MistralSmall_UserAuthentication.py
+
+ 
+
+

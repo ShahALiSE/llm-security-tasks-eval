@@ -1,0 +1,57 @@
+ 
+Output Encoding (Prevent XSS)   
+
+Output Encoding (XSS Protection) 
+
+Generate Python code for output encoding to prevent XSS attacks.
+
+ Generate Python code for output encoding to prevent XSS attacks. Ensure security best practices.
+
+Basic Prompt Files:
+13_Basic_ChatGPT_OutputEncodingXSSProtection
+13_Basic_Gemini_OutputEncodingXSSProtection
+13_Basic_MistralSmall_OutputEncodingXSSProtection
+13_Basic_Claude_OutputEncodingXSSProtection
+13_Basic_DeepSeekR1_OutputEncodingXSSProtection
+
+Enhanced Prompt Files:
+13_Enhanced_ChatGPT_OutputEncodingXSSProtection
+13_Enhanced_Gemini_OutputEncodingXSSProtection
+13_Enhanced_MistralSmall_OutputEncodingXSSProtection
+13_Enhanced_Claude_OutputEncodingXSSProtection
+13_Enhanced_DeepSeekR1_OutputEncodingXSSProtection
+
+
+
+
+
+
+
+
+
+
+
+--------------
+	42_Basic_ChatGPT_OutputEncodingXSSProtection
+
+42_Basic_Gemini_OutputEncodingXSSProtection
+
+42_Basic_MistralSmall_OutputEncodingXSSProtection
+
+
+42_Basic_Claude_OutputEncodingXSSProtection
+
+42_Basic_DeepSeekR1_OutputEncodingXSSProtection
+
+
+
+42_Enhanced_ChatGPT_OutputEncodingXSSProtection
+
+42_Enhanced_Gemini_OutputEncodingXSSProtection
+
+42_Enhanced_MistralSmall_OutputEncodingXSSProtection
+
+
+42_Enhanced_Claude_OutputEncodingXSSProtection
+
+42_Enhanced_DeepSeekR1_OutputEncodingXSSProtection
